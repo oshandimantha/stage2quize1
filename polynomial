@@ -1,0 +1,29 @@
+mport Necessary Libraries:
+
+Import the required Python libraries, such as pandas, scikit-learn, and matplotlib.
+Load the Data:
+
+Load your dataset from a CSV file using a library like pandas.
+Prepare the Data:
+
+Separate the input features (independent variables) and the target variable (dependent variable) from your dataset.
+Train a Simple Linear Regression Model:
+
+Fit a simple linear regression model using the input features and target variable.
+Calculate the R^2 score to evaluate the model's goodness of fit.
+Train Polynomial Regression Models:
+
+For various degrees of polynomial regression (e.g., 2nd degree, 3rd degree, 4th degree), transform the input features into polynomial features.
+Fit polynomial regression models for each degree using the transformed features.
+Calculate the R^2 scores for each polynomial regression model.
+Evaluate and Compare Models:
+
+Display the R^2 scores for the simple linear regression model and polynomial regression models.
+Analyze and compare the R^2 scores to assess how well each model fits the data.
+Optional: Visualize the Results:
+
+If desired, use matplotlib or a similar library to visualize the regression models and data points.
+Plot the regression lines and data points to gain insights into the model's performance.
+Conclusion:
+
+Based on the R^2 scores and visualization (if done), draw conclusions about the suitability and accuracy of each regression model for your dataset.
